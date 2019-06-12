@@ -40,6 +40,10 @@ html {
   @media (max-width: 768px) {
 
       .parallax {
-          background-position: -120px;
+          background-position: center;
+          /* background-position: -120px; */
+          background-attachment: scroll;
+          height: 200px; 
+
       }
   }
