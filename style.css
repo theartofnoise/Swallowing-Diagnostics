@@ -1,4 +1,6 @@
-.jumbotron {
+.jumbo {
+    padding-top: 2rem;
+    padding-bottom: 4rem;
     /* background-color: white; */
  /* Permalink - use to edit and share this gradient: https://colorzilla.com/gradient-editor/#000000+0,000000+100&0+19,0.65+100 */
 background: -moz-linear-gradient(top,  rgba(0,0,0,0) 0%, rgba(0,0,0,0) 19%, rgba(0,0,0,0.65) 100%); /* FF3.6-15 */
